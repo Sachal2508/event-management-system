@@ -1,0 +1,7 @@
+Student Name: Muhammad Sachal
+Course: Web Programming
+Assignment: Assignment 2 - Event Management System
+Instructor: Mahhek Tahir
+
+GitHub Repository URL:
+https://github.com/Sachal2508/event-management-system
